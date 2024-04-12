@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jjjsw
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analysis and data science
+
 
 <!---
 jjjsw/jjjsw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
